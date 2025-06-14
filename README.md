@@ -18,6 +18,10 @@ Blink the built-in LED.
 
 Generate sound and send to a Bluetooth speaker using A2DP.
 
+### I2S DAC
+
+Stream an MP3 from the internet to an I2S DAC.
+
 ### LittleFS
 
 Basic LittleFS filesystem operations including deleting, creating, and reading files.
